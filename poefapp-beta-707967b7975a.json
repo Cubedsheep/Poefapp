@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poefapp-beta",
+  "private_key_id": "707967b7975a5da956032a105cee717b98e186cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxggMxBgMi5rnz\nFRETf06QyO273i7ox2bIHIMB1wtBXBMBc3yWOsz5r27+oHkKrZ4dX3YhqL6cApwb\nEL9W2c415ZFfXPMQA4f0v7sjjp9xaK1eMJYRYCygRmQTpOp3wlaBDnmnZRArJump\n9nEl9I26Ex6ZDAnhyZOukGxme2+Hpf3GIx6OkgZmi0jUvnHY/XF+8HaTKkkodcmb\nCCILLXOz+qiznenp7RUGzlZnNoSerNcYyAsXbTtksdicSmdmVOFSLUy8ukF19MLs\njCRTKpOoL2X4hrj7PfGbIVuGcizVcZshkTQhEVcMZmhcGT0uKGOy2R3rEBYm6/OT\nHs3dik5XAgMBAAECggEANYphGw7UsFjGmqbujSJ3mJ06c9Ga9ZR7kH1lGI978h1r\nECN83zViMSe0w3G0wL9Ic1ShZZqnz5fL7S/6fqBYnhId7JU1LU3bWrvgHuP8fLEV\npdTi1t/a5gcFVZWHMVM5U1kB4bdOjq2AikburwOaIhd1QbWLX4K1HFCsmaa+p7ut\nTy+y7ZTCYW1KO2kR5Fox9D1DX9bH35P8SJiBWOfyO/3l0WEblOdGoPsQFyQ/l3Lc\nJ6SMzt2FN/jkIEGFl76lSLfd2G5MA9PIbWwBFhURyR2RYca9FwjRNKNo8ybWCnSi\nFX0J6sm8FFQKLPwrMq+VQwRFSH9vrOiAuG31MAyTeQKBgQDgq1OolJhTwaQh5rCI\no0Wrfbp0VhMqofd30dj4ZQ15GHBtXP8WAix03A+6gZloZwJiyChbZvBwULlvNSe5\nr4GMqkZ0WbOHB6A1whUgvUyRYcA66iNig3eDKqclOs4AMyl8WnxWb7vWTHci09cX\n1X2RHLgdxhhO426zhSL4QyPjuQKBgQDKQwc5dHWSAaBtU5UumZJri8XHHjh9dGjp\n/HVMEO/v4qSsPNfjbSbEJznbwooLQzs22gHM3+OCbO7IHw0AVdD6033IeSTbwEpb\nJfCHZsbpzXwHMrnIz6v1Fjk39x2njN9I9ma29blQhWWJNiW+MnWip7jImj0ero49\nWvWhKo/qjwKBgDMbRgCHLM+AsRF1JJswaNzF0PA91EZSabS765s1gYcWZBy8ltou\nzGYY2QsYCAmTxRsrZOLF29PwyP3fHZZDsjiJU1WMQiZpOayA5cV4yj4X+l5sfHgg\nZ8NSpIr3gXzSJpG/E6Gl8RiidEdb4QXu7o1f9xHuygDIA5qaooXO4A8hAoGAaIMK\nEJ4kwjUk+FjgFRw1lGy83Y64Eds8+usAkTWPRZ0PChDGXTXheinqs6tqOTecOVOc\n6oglvxcaqz2gMjQlr/XoYNZ4PTS3NzH7f3uT/Ou40t9bMHBeol3BYzHFmPYpykHI\nAXInN3w2YxgfmI/qSQnxaXaJbnkz9nAxy/16L/ECgYEApUYQHbLmPyDpOqPNiSDK\norfAoW3jfNKer5HcdhWxp7odehNQh+FBLBuxs4OwbMTuLVbHgUwVgofG6IFI7hBA\nmcgG3MpMrUBCJS7vf7NWRLc1i+PempZeT5/Mm13oTpB17Iv0A6xsvBLTUePtKss3\n6TWmORltM3PNumXAI8B1DDg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "de-poefer@poefapp-beta.iam.gserviceaccount.com",
+  "client_id": "101259345069903197322",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/de-poefer%40poefapp-beta.iam.gserviceaccount.com"
+}
